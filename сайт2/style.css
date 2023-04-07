@@ -1,0 +1,166 @@
+body{
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji";
+    width: 100%;
+    font-size: 10ww;
+    background-color:rgb(87, 87, 87);
+}
+header{
+  width: 70%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.anime{
+    text-align: center;
+    display: inline-block;
+    font-weight: bold;
+    padding: 10px;
+    margin: 18px;
+    box-sizing: border-box;
+    word-spacing: 300px ;
+    font-size: 16px;
+    text-transform: uppercase;
+    line-height: 1;
+    -webkit-transition: all 0.5s ease;
+          transition: all 0.5s ease;
+    background-color: rgb(223, 223, 223);
+    
+}
+.anime:hover{
+    color: #b14251; 
+    -webkit-text-shadow: 2px 2px 2px #000;
+    -moz-text-shadow: 2px 2px 2px #000;
+        text-shadow: 2px 2px 2px #000;
+  }
+  .janri{
+    text-align: center;
+    display: inline-block;
+    font-weight: bold;
+    padding: 10px;
+    margin: 18px;
+    box-sizing: border-box;
+    word-spacing: 300px ;
+    font-size: 16px;
+    text-transform: uppercase;
+    line-height: 1;
+    -webkit-transition: all 0.5s ease;
+          transition: all 0.5s ease;
+    background-color: rgb(223, 223, 223);
+    
+}
+.janri:hover{
+    color: #b14251; 
+    -webkit-text-shadow: 2px 2px 2px #000;
+    -moz-text-shadow: 2px 2px 2px #000;
+        text-shadow: 2px 2px 2px #000;
+  }
+  .manga{
+    text-align: center;
+    display: inline-block;
+    font-weight: bold;
+    padding: 10px;
+    margin: 18px;
+    box-sizing: border-box;
+    word-spacing: 300px ;
+    font-size: 16px;
+    text-transform: uppercase;
+    line-height: 1;
+    -webkit-transition: all 0.5s ease;
+          transition: all 0.5s ease;
+    background-color: rgb(223, 223, 223);
+    
+}
+.manga:hover{
+    color: #b14251; 
+    -webkit-text-shadow: 2px 2px 2px #000;
+    -moz-text-shadow: 2px 2px 2px #000;
+        text-shadow: 2px 2px 2px #000;
+  }
+  .zakladki{
+    text-align: center;
+    display: inline-block;
+    font-weight: bold;
+    padding: 10px;
+    margin: 18px;
+    box-sizing: border-box;
+    word-spacing: 300px ;
+    font-size: 16px;
+    text-transform: uppercase;
+    line-height: 1;
+    -webkit-transition: all 0.5s ease;
+          transition: all 0.5s ease;
+    background-color: rgb(223, 223, 223);
+    
+}
+.zakladki:hover{
+    color: #b14251; 
+    -webkit-text-shadow: 2px 2px 2px #000;
+    -moz-text-shadow: 2px 2px 2px #000;
+        text-shadow: 2px 2px 2px #000;
+  }
+  .acc{
+    text-align: center;
+    display: inline-block;
+    font-weight: bold;
+    padding: 10px;
+    margin: 18px;
+    box-sizing: border-box;
+    word-spacing: 300px ;
+    font-size: 16px;
+    text-transform: uppercase;
+    line-height: 1;
+    -webkit-transition: all 0.5s ease;
+          transition: all 0.5s ease;
+    background-color: rgb(223, 223, 223);
+    
+}
+.acc:hover{
+    color: #b14251; 
+    -webkit-text-shadow: 2px 2px 2px #000;
+    -moz-text-shadow: 2px 2px 2px #000;
+        text-shadow: 2px 2px 2px #000;
+  }
+  .verx{
+    display: inline-block;
+    text-align: center;
+    word-spacing: 30px ;
+    
+    background-color: rgb(223, 223, 223);
+  }
+  .animes{
+    color: #ffffff; 
+    text-align: center;
+    margin-left: 300px;
+    margin-right: 300px;
+  }
+  .acca{
+    position: absolute;
+    top: 0px;
+   
+    background-color: rgb(223, 223, 223);
+    margin-left: 1710px;
+  }
+  .foto{
+    width: auto;
+  }
+  @media (min-width: 992px) {
+  
+    header {
+      flex: 0 0 66.666667%;
+      max-width: 66.666667%;
+      order: 2;
+    }
+  }
+  @media (min-width: 1400px) {
+   
+    header{
+      flex: 0 0 75%;
+      max-width: 75%;
+    }
+  }
+
+  
+ 
+  
+  
